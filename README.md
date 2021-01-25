@@ -2,7 +2,7 @@
 
 > This is a simple amazon style bookstore interface made with react. The main aim of this project was to recreate a simple amazon style book store interface and add react events to each book. In future this project will have more functionalities like : add book, delete book, add book to a cart etc.
 
-![screenshot](./src/Images/interface1.PNG)
+![screenshot](./src/Images/Interface1.PNG)
 
 ## Live Demo
 
