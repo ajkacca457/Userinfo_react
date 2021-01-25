@@ -16,8 +16,10 @@ class App extends Component {
     return(
       <div className="App">
         <Header></Header>
+        <div className="bookcontainer">
         {this.state.books.map(item=>
           <Book key={item.id} info={item}></Book>)}
+          </div>
       </div>
     )
   }

@@ -11,7 +11,7 @@ class Book extends Component {
       <div>
         <h4>{name}</h4>
         <p>{author}</p>
-        <p>{price}</p>
+        <h4>{price}</h4>
         </div>
       </div>
     )
