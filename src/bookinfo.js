@@ -59,6 +59,18 @@ export const bookinfo=[
       name:"Conversations with RBG",
       author:"Jeffrey Rosen",
       price: "14 euros"
+    },
+    { id:11,
+      img:"https://images-na.ssl-images-amazon.com/images/I/41MR-FAI7JL._AC_SX184_.jpg",
+      name:"Conversations with RBG",
+      author:"Jeffrey Rosen",
+      price: "14 euros"
+    },
+    { id:12,
+      img:"https://images-na.ssl-images-amazon.com/images/I/41zCOw1xCDL._AC_SX184_.jpg",
+      name:"Conversations with RBG",
+      author:"Jeffrey Rosen",
+      price: "14 euros"
     }
 
 ]
