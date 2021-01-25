@@ -28,7 +28,7 @@ $ cd <folder>
 ```bash
 
 $ git clone `https://github.com/ajkacca457/book_store_react.git`
-$ cd global_home_static_react
+$ cd book_store_react
 $ Run `npm install` to install the necessary modules
 
 ```
