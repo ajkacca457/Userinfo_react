@@ -58,3 +58,17 @@ body {
 img {
   border: 1px solid black;
 }
+
+.btn {
+  background-color: orangered;
+  color:white;
+  border: none;
+  padding: 5px 10px;
+}
+
+.info {
+  text-align: justify;
+  font-size: 95%;
+  padding: 5px;
+  background-color: white;
+}

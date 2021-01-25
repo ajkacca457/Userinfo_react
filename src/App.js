@@ -18,7 +18,7 @@ class App extends Component {
         <Header></Header>
         <div className="bookcontainer">
         {this.state.books.map(item=>
-          <Book key={item.id} info={item}></Book>)}
+          <Book key={item.id} info={item} deleteMe={this.deleteBook}></Book>)}
           </div>
       </div>
     )
